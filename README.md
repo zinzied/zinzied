@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/zinzied](https://github.com/zinzied)
 
-- 📫 How to reach me **zinzied@gmail.com**
+- 📫 How to reach me [![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/6cdbb3a9-8056-4c15-97b0-586af3ff4f5c)](mailto:ziedboughdir@gmail.com)
 
 - ⚡ Fun fact **I think i am funny**
 
