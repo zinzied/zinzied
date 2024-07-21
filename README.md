@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/zinzied" target="blank"><img src="https://img.shields.io/twitter/follow/zinzied?logo=twitter&style=for-the-badge" alt="zinzied" /></a> </p>
 
-<p align="left"> <a href="https://discord.gg/zied_24413" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zied_24413" height="30" width="40" /></a> </p>
-
 - 🔭 I’m currently working on [LadybirdBrowser](https://github.com/LadybirdBrowser)
 
 - 🌱 I’m currently learning **Frameworks,JS,TS and React**
