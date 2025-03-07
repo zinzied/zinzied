@@ -31,7 +31,10 @@
 <p align="center">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="pull shark" width="100">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="yolo" width="100">
-  <!-- Add more achievement images as you earn them -->
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="quickdraw" width="100">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" alt="pair extraordinaire" width="100">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" alt="starstruck" width="100">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" alt="galaxy brain" width="100">
 </p>
 
 <h3 align="left">Connect with me:</h3>
