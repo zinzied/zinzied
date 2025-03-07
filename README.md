@@ -6,7 +6,7 @@
 <h3 align="center">A python Developper From Tunisia</h3>
 <h3 align="center" style="color: cyan;">As they were made to be used, we are made to be used</h3>
 
- 
+  // Replace the existing image line with:
   <p align="center">
     <img src="https://github.com/user-attachments/assets/9405eccc-be39-42e1-8fed-1b5b2e949293" alt="profile banner">
   </p>
