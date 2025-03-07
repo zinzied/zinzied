@@ -39,8 +39,10 @@
 
 <p><a href="https://www.buymeacoffee.com/zied"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zied" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zinzied&show_icons=true&locale=en&layout=compact" alt="zinzied" /></p>
+<div align="center">
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zinzied&show_icons=true&locale=en&layout=compact" alt="zinzied" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zinzied&show_icons=true&locale=en" alt="zinzied" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=zinzied&show_icons=true&locale=en" alt="zinzied" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zinzied&" alt="zinzied" /></p>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=zinzied&" alt="zinzied" /></p>
+</div>
