@@ -1,0 +1,10 @@
+displayAchievements: true
+achievements:
+  - type: quickdraw
+    display: true
+  - type: pair-extraordinaire  
+    display: true
+  - type: pull-shark
+    display: true
+  - type: yolo
+    display: true
