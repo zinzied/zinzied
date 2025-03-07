@@ -6,7 +6,10 @@
 <h3 align="center">A python Developper From Tunisia</h3>
 <h3 align="center" style="color: cyan;">As they were made to be used, we are made to be used</h3>
 
-  ![tumblr_1d7cabb36823c7ab45ddc0274b033007_8b658997_1280](https://github.com/user-attachments/assets/9405eccc-be39-42e1-8fed-1b5b2e949293)
+  // Replace the existing image line with:
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/9405eccc-be39-42e1-8fed-1b5b2e949293" alt="profile banner">
+  </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zinzied" alt="zinzied" /></a> </p>
 
