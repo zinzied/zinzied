@@ -74,14 +74,17 @@
 
 <br/>
 
-<!-- Trophies (Service currently unstable/down)
+<!-- Trophies (Service currently unstable/down) - Restored Static Achievements below -->
 <div align="center">
-  <h3 align="center">🏆 Trophies</h3>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zinzied&theme=flat&no-frame=true&margin-w=4" alt="zinzied trophies" />
-  </a>
+  <h3 align="center">🏆 GitHub Achievements</h3>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="pull shark" width="100">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="yolo" width="100">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="quickdraw" width="100">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" alt="pair extraordinaire" width="100">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" alt="starstruck" width="100">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" alt="galaxy brain" width="100">
 </div>
--->
+
 
 <br/>
 
