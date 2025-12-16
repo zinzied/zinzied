@@ -74,18 +74,22 @@
 
 <br/>
 
+<!-- Trophies (Service currently unstable/down)
 <div align="center">
   <h3 align="center">🏆 Trophies</h3>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=zinzied&theme=flat&no-frame=true&margin-w=4" alt="zinzied trophies" />
   </a>
 </div>
+-->
 
 <br/>
 
+<!-- Streak Stats (Service currently unstable/down)
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zinzied&theme=tokyonight&hide_border=true" alt="streak stats" />
 </div>
+-->
 
 <br/>
 
@@ -97,7 +101,4 @@
 
 <br/>
 
-<!-- Snake Animation Placeholder (Requires GitHub Action) -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/zinzied/zinzied/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+
