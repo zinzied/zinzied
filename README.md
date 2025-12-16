@@ -99,5 +99,5 @@
 
 <!-- Snake Animation Placeholder (Requires GitHub Action) -->
 <div align="center">
-  <img src="https://github.com/zinzied/zinzied/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/zinzied/zinzied/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
