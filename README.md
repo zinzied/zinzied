@@ -91,7 +91,7 @@
   <h2 align="center">💖 Support & Donations</h2>
   <p>If you find my work helpful, consider supporting me!</p>
   
-  <a href="https://tonapi.io/account/EQAMqJl2fKREdPno8mSc6ae5StGg1CgnRJT0FyMBuhwgzSYW">
+  <a href="https://tonapi.io/account/UQD6_TSUxYQGQMTlvH_ubm-xxfxlQiGmjC6yvlHhzH9LyuUK">
     <img src="https://img.shields.io/badge/Donate-TON-0088CC?style=for-the-badge&logo=ton&logoColor=white" alt="Donate TON" />
   </a>
   <br/>
